@@ -6,7 +6,7 @@ p {
 }
 
 img {
-    transition: transform 12s;
+    transition: transform 10s;
     }
 
 img:hover {

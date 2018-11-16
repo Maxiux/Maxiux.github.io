@@ -10,5 +10,5 @@ img {
     }
 
 img:hover {
-    transform: skewY(30deg);
+    transform: skewY(25deg);
 }

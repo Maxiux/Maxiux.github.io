@@ -10,6 +10,6 @@ img {
     }
 
 img:hover {
-    transform: skewY(25deg);
-
+    transform: skewY(30deg);
+    transform: skewX(30deg);
 }
